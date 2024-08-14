@@ -92,56 +92,46 @@ namespace VoiceContent.Localization
                 "surfshark",
             }
             }, // WindowsVoiceRecognitonAPI, VoskVoiceRecognitionAPI
-            ["pt-BR"] = new Dictionary<string, List<string>>
+            ["ru-RU"] = new Dictionary<string, List<string>>
             {
                 ["swearWords"] = new List<string>
             {
-                "porra",
-                "caralho",
-                "cacete",
-                "merda",
-                "bosta",
-                "buceta",
-                "filho da puta",
-                "arrombado",
-                "otario",
-                "pau no cu",
-                "se mata",
+                "сука",
+                "тварь",
+                "ебать",
+                "блять",
+                "ублюдок",
+                "сволочь",
+                "нахуй",
+                "хуй",
+                "мразь",
+                "тварь",
             },
                 ["youtuberPhrases"] = new List<string>
             {
-                "curta e inscreva-se",
-                "n�o esque�a de compartilhar",
-                "ativa o sininho",
-                "deixa o like",
-                "manda pros amigos",
-                "arrasta pra cima"
+                "лайк",
+                "подписка",
+                "колокольчик",
+                "канал"
             },
                 ["sponsorPhrases"] = new List<string>
             {
-                "codigo de desconto",
+                "патреон",
                 "patreon",
-                "gfuel",
-                "temu",
-                "nordvpn",
-                "private internet access",
+                "газпром",
+                "имба энержи",
+                "ростелеком",
+                "теле2",
                 "expressvpn",
-                "audible",
-                "skillshare",
+                "мегафон",
+                "билайн",
                 "squarespace",
                 "raid shadow legends",
-                "raycon",
-                "hello fresh",
-                "manscaped",
-                "betterhelp",
-                "grammarly",
-                "blue apron",
-                "dollar shave club",
-                "rocket money",
+                "landfall games",
                 "fortnite",
                 "honkai star rail",
                 "genshin impact",
-                "paypal",
+                "paypal"
             }
             } // VoskVoiceRecognitionAPI
         };
